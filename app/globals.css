@@ -21,3 +21,18 @@
     text-wrap: balance;
   }
 }
+th, td, tr{
+  text-align: center;
+  padding-left: 12px;
+  padding-right: 12px;
+  height: 35px;
+}
+td{
+  font-weight: 600;
+}
+.genap{
+  background-color: rgb(208, 228, 255);
+}
+.ganjil{
+  background-color: white;
+}
